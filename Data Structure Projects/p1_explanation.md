@@ -1,0 +1,2 @@
+The get/set operations both have time complexities of O(1) through the usage of the OrderedDict subclass. This subclass was chosen for its ability to track the insertion order of the key/value pairs.
+Space complexity is O(n) because the cache size is limited with n representing the allowable size of the cache.

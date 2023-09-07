@@ -1,0 +1,1 @@
+Both the time and space complexity for this algorithm is O(n) since both are linearly dependent on the size of the users and groups.

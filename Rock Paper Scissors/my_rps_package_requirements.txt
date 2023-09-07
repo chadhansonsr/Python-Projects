@@ -1,0 +1,5 @@
+the packages below must be isntalled to be able to run program. 
+packages provide the ability to print in color as well as display ascii art in terminal.
+
+ascii_magic==2.3.0 "pip install ascii_magic"
+termcolor==2.3.0 "python3 -m pip install --upgrade termcolor"

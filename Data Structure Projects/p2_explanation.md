@@ -1,0 +1,1 @@
+The time and space complexity for this alogrithm is O(n) since the directory is recursively traversed.  The space is directly limited by the oversall size of the directory.
